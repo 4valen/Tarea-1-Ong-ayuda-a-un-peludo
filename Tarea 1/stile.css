@@ -1,0 +1,22 @@
+
+    .centrado {
+        border: 0cap;
+        color: darkblue;
+        text-align: center;
+        background-color: cadetblue;
+        font-family: 'Courier New', Courier, monospace;}
+    .lista{
+        border: 0cap;
+        color: rgb(56, 43, 48);
+        font-family: 'Courier New', Courier, monospace;
+        float: center;
+        padding: auto;
+        background-color: cornflowerblue;
+
+    }
+    .boton {
+        display: flex;
+        transition: 0,6s ease;
+        text-decoration: none;
+    }
+    
